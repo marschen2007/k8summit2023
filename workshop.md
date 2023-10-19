@@ -6,6 +6,7 @@ By the end of the workshop the “Arcadia Crypto” will be fully deployed and p
 
 Documentation for the workshop can be found at:
 http://udf.nginx-experience.com/
+
 ssh into the Jumpbox and start the lab while in the /home/ubuntu/lab/ directory.
 
 Ignore the first two chapters.
