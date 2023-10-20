@@ -13,6 +13,14 @@ K8s導入實戰 K8s架構設計   雲端原生架構
 4. 零信任 -使用 NGINX 應用相互 TLS 身份驗證
 5. 安全 -使用 Nginx App Protect Web 應用防火牆保護您的應用程序。"
 
+## K8s 與NGINX 
+使用 Terraform 部署 NGINX 基礎設施 -首先使用自動化並使用基礎架構即代碼概念來部署環境。
+## NGINX基礎部署	
+使用 Kubernetes Nginx Ingress 提高可用性、安全性和應用性能
+## NGINX 安全功能部署	
+- 使用 OpenID Connect 對用戶進行身份驗證，並將身份驗證過程從應用卸載到 Nginx
+- 零信任 -使用 NGINX 應用相互 TLS 身份驗證
+- 安全 -使用 Nginx App Protect Web 應用防火牆保護您的應用程序
 
 This workshop will provide guidelines on how to deploy an application from scratch in Amazon Elastic Kubernetes Service environment while protecting and enhancing the application availability and usability with Nginx solutions.
 
