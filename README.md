@@ -1,5 +1,5 @@
 # k8summit2023
-
+# NGINX 敏捷部署實戰：作為Ingress Controller（搭配EKS)
 
 This workshop will provide guidelines on how to deploy an application from scratch in Amazon Elastic Kubernetes Service environment while protecting and enhancing the application availability and usability with Nginx solutions.
 
