@@ -35,8 +35,10 @@ K8s導入實戰 K8s架構設計   雲端原生架構
 研討會的文檔可以在以下位置找到： 
 http://udf.nginx-experience.com/
 
-web shell into the Jumpbox and start the lab while in the /home/ubuntu/lab/ directory.
-
+步驟
+1. 依流程啟動 UDF lab
+2. web shell into the Jumpbox and start the lab while in the /home/ubuntu directory.
+3. 執行以下指令
 sudo -u ubuntu
 cd /home/ubuntu
 
@@ -46,5 +48,3 @@ When the environment is started it will automatically deploy the infrastructure 
 !!! You will need to wait for terraform to finish before starting !!! 
 This will take 15 - 20 minutes from the moment the deployment is started. Watch the logs and when "ALL IS DONE" is printed you can start. 
 tail -f /home/ubuntu/startup/startup.log
-
-Nginx versions used at the moment: KIC 1.11.1 with App Protect and Opentracing for Zipkin Controller 3.16 Nginx+ R23
