@@ -32,11 +32,15 @@ K8s導入實戰 K8s架構設計   雲端原生架構
 http://udf.nginx-experience.com/
 
 web shell into the Jumpbox and start the lab while in the /home/ubuntu/lab/ directory.
+
 sudo -u ubuntu
 cd /home/ubuntu
 
 Ignore the first two chapters. Start at chapter 3 "Arcadia deployment".
 
-When the environment is started it will automatically deploy the infrastructure on AWS (chapter 2 "Nginx with Terraform"). !!! You will need to wait for terraform to finish before starting !!! This will take 15 - 20 minutes from the moment the deployment is started. Watch the logs and when "ALL IS DONE" is printed you can start. tail -f /home/ubuntu/startup/startup.log
+When the environment is started it will automatically deploy the infrastructure on AWS (chapter 2 "Nginx with Terraform"). 
+!!! You will need to wait for terraform to finish before starting !!! 
+This will take 15 - 20 minutes from the moment the deployment is started. Watch the logs and when "ALL IS DONE" is printed you can start. 
+tail -f /home/ubuntu/startup/startup.log
 
 Nginx versions used at the moment: KIC 1.11.1 with App Protect and Opentracing for Zipkin Controller 3.16 Nginx+ R23
