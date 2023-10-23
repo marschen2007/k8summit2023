@@ -22,15 +22,18 @@ K8s導入實戰 K8s架構設計   雲端原生架構
 - 零信任 -使用 NGINX 應用相互 TLS 身份驗證
 - 安全 -使用 Nginx App Protect Web 應用防火牆保護您的應用程序
 
-This workshop will provide guidelines on how to deploy an application from scratch in Amazon Elastic Kubernetes Service environment while protecting and enhancing the application availability and usability with Nginx solutions.
+本研討會將提供有關如何在 Amazon Elastic Kubernetes Service 環境中從頭開始部署應用程式的指南，同時使用 Nginx 解決方案保護和增強應用程式的可用性和可用性。
 
-For this workshop we are going to use the “Arcadia Crypto” application. The application is built with 6 different microservices that are deployed in the Kubernetes environment.
+在本次研討會中，我們將使用「Arcadia Crypto」應用程式。 該應用程式由部署在 Kubernetes 環境中的 6 個不同的微服務建置。
 
-By the end of the workshop the “Arcadia Crypto” will be fully deployed and protected as described in the bellow diagram.
+在研討會結束時，「Arcadia Crypto」將得到全面部署和保護，如下圖所示。
 
-Documentation for the workshop can be found at: http://udf.nginx-experience.com/
+研討會的文檔可以在以下位置找到： 
+http://udf.nginx-experience.com/
 
-ssh into the Jumpbox and start the lab while in the /home/ubuntu/lab/ directory.
+web shell into the Jumpbox and start the lab while in the /home/ubuntu/lab/ directory.
+sudo -u ubuntu
+cd /home/ubuntu
 
 Ignore the first two chapters. Start at chapter 3 "Arcadia deployment".
 
