@@ -34,6 +34,9 @@ K8s導入實戰 K8s架構設計   雲端原生架構
 研討會的文件可以在以下位置找到： 
 http://udf.nginx-experience.com/
 
+相關yaml檔案，請參考
+https://github.com/sorinboia/nginx-experience-aws-ac2.0
+
 步驟
 1. 依流程啟動 UDF lab
 2. web shell into the Jumpbox and start the lab while in the /home/ubuntu directory.
