@@ -44,9 +44,10 @@ https://github.com/sorinboia/nginx-experience-aws-ac2.0
 sudo -u ubuntu
 cd /home/ubuntu
 
-Ignore the first two chapters. Start at chapter 3 "Arcadia deployment".
+請忽略前兩章。 從第 3 章「Arcadia 部署」開始。
 
-When the environment is started it will automatically deploy the infrastructure on AWS (chapter 2 "Nginx with Terraform"). 
-!!! You will need to wait for terraform to finish before starting !!! 
-This will take 15 - 20 minutes from the moment the deployment is started. Watch the logs and when "ALL IS DONE" is printed you can start. 
+當環境啟動時，它將自動在 AWS 上部署基礎架構（第 2 章「Nginx 與 Terraform」）。
+!!! 您需要等待 terraform 完成才能開始！
+從部署開始起，這將需要 15 - 20 分鐘。 觀察日誌，當列印“ALL IS DONE”時，您就可以開始了。
+
 tail -f /home/ubuntu/startup/startup.log
