@@ -51,4 +51,6 @@ cd /home/ubuntu
 !!! 您需要等待 terraform 完成才能開始！
 從部署開始起，這將需要 15 - 20 分鐘。 觀察日誌，當列印“ALL IS DONE”時，您就可以開始了。
 
+Windows 複製貼上 請使用 Ctrl Shift C&V
+
 tail -f /home/ubuntu/startup/startup.log
