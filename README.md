@@ -41,7 +41,8 @@ https://github.com/sorinboia/nginx-experience-aws-ac2.0
 1. 依流程啟動 UDF lab
 2. web shell into the Jumpbox and start the lab while in the /home/ubuntu directory.
 3. 執行以下指令
-sudo -u ubuntu
+su ubuntu
+
 cd /home/ubuntu
 
 請忽略前兩章。 從第 3 章「Arcadia 部署」開始。
