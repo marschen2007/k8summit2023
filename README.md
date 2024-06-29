@@ -3,8 +3,6 @@
 
 請填表單輸入您的email address,我們將發送email 給您開啟Lab
 
-https://docs.google.com/forms/d/e/1FAIpQLSfw0qi-3ZW9y_xFH3FYtzOSmTJ8pA8s8tdbey1UjHKMgZy1PQ/formResponse
-
 交付現代應用提高了提供不受基礎設施限制的敏捷應用服務的需求，同時確保應用運行得更快、安全且大規模部署。為應用程序選擇正確的架構可以讓組織更快地進行創新，並在任何基礎設施或雲架構上部署新服務。從代碼開發到客戶使用，部署在 AWS雲平台上的 NGINX 正在幫助企業交付應用基礎設施和服務，確保其應用快速、安全並大規模運行。
 
 在本次研討會中，您將體驗如何以敏捷的方式部署應用，使用NGINX在AWS 雲平台，以完全自動化的方式使用所需的所有應用服務，例如API 管理和Web 應用防火牆"
